@@ -1,2 +1,3 @@
 deepface
 matplotlib
+scipy
